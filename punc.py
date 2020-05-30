@@ -38,7 +38,7 @@ t.sleep(20)
 
 print(t.strftime("%I:%M:%S  -- %Y/%m/%d"))
 
-kl = r.get('http://localhost:8080/mews.html')
+kl = r.get('https://punchng.com/')
 pl = bs(kl.content, 'html.parser')
 
 #print(pl.prettify())
