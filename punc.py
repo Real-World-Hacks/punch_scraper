@@ -7,8 +7,30 @@ import re
 
 print("This is My Legal but Rough Web Scraping with my Nation's news site \n\n")
 #prints = '''
-      #figlet feature is here
+      
+____  _____    _    _       __        _____  ____  _     ____
+|  _ \| ____|  / \  | |      \ \      / / _ \|  _ \| |   |  _ \
+| |_) |  _|   / _ \ | |   ____\ \ /\ / / | | | |_) | |   | | | |
+|  _ <| |___ / ___ \| |__|_____\ V  V /| |_| |  _ <| |___| |_| |
+|_| \_\_____/_/   \_\_____|     \_/\_/  \___/|_| \_\_____|____/                     
 
+
+_   _    _    ____ _  ______
+| | | |  / \  / ___| |/ / ___|
+| |_| | / _ \| |   | ' /\___ \   _____ _____
+|  _  |/ ___ \ |___| . \ ___) | |_____|_____|
+|_| |_/_/   \_\____|_|\_\____/
+
+ ____   ____ ____      _    ____  _____ ____
+/ ___| / ___|  _ \    / \  |  _ \| ____|  _ \
+\___ \| |   | |_) |  / _ \ | |_) |  _| | |_) |
+ ___) | |___|  _ <  / ___ \|  __/| |___|  _ <
+|____/ \____|_| \_\/_/   \_\_|   |_____|_| \_\
+'''
+
+
+print(prints)
+t.sleep(10)
 print("Pls message me on facebook by name: Chukwuemeka Emmanuel Dumebi for more projects you would love to accomplosh\n\n")
 print("Waiting for 20 seconds")
 print("While waitng go just like my Facebook Page: Real-World-Hacks and follow me on IMSTAGRAM @realworldhacks\n\n")
