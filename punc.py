@@ -6,7 +6,7 @@ import re
 
 
 print("This is My Legal but Rough Web Scraping with my Nation's news site \n\n")
-#prints = '''
+prints = '''
       
 ____  _____    _    _       __        _____  ____  _     ____
 |  _ \| ____|  / \  | |      \ \      / / _ \|  _ \| |   |  _ \
